@@ -22,7 +22,7 @@
 &kp LEFT_SHIFT  &kp A   &kp S   &kp D         &kp F      &kp G       &kp H      &kp J      &kp K      &kp L             &kp SEMI  &kp ENTER
 &kp LCTRL       &kp Z   &kp X   &kp C         &kp V      &kp B       &kp N      &kp M      &kp COMMA  &kp LEFT_BRACKET  &kp FSLH  &kp MINUS
                                 &kp LEFT_WIN  &mo 1      &mkp MB2    &kp LALT   &kp GRAVE
-                                              &kp SPACE  &mkp MB1    &kp ENTER
+                                              &kp SPACE  &mkp MB1    &mkp MB1
             >;
 
             trackball-bindings = <&tmv_coarse>;
