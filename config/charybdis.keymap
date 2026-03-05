@@ -40,7 +40,7 @@
 
             trackball-bindings = <&tsl>;
         };
-
+        /* 
         layer_2 {
             bindings = <
 &none  &none   &none    &none   &none         &none         &none         &none         &none     &none  &none   &none
@@ -53,7 +53,7 @@
           trackball-bindings = <&tsl>;
 
         };
-       /* 
+       
        Mouse {
             bindings = <
 &none        &none         &none         &none         &none      &none         &none       &none      &none         &none         &none         &none
