@@ -29,10 +29,10 @@
 
         layer_1 {
             bindings = <
-&kp GRAVE       &kp EXCL &kp AT &kp HASH      &kp DLLR   &kp PRCNT     &kp CARET  &kp AMPS    &kp ASTRK   &kp LPAR           &kp RPAR &kp F12
+&kp GRAVE       &none   &none   &none         &none      &none         &none      &none       &none       &none              &none              &kp F12
 &none           &none   &none   &none         &none      &bt BT_NXT    &none      &none       &kp UP      &kp LEFT_BRACKET   &kp RIGHT_BRACKET  &kp SQT
-&none           &none   &none   &none         &none      &bt BT_CLR    &none      &kp LEFT    &kp DOWN    &kp RIGHT          &none    &none
-&none           &none   &none   &none         &none      &none         &none      &none       &none       &none              &none    &kp EQUAL
+&none           &none   &none   &none         &none      &bt BT_CLR    &none      &kp LEFT    &kp DOWN    &kp RIGHT          &none              &none
+&none           &none   &none   &none         &none      &none         &none      &none       &none       &none              &none              &kp EQUAL
                                 &kp LEFT_WIN  &kp SPACE  &none         &kp LALT   &kp DELETE
                                               &mkp MB1   &mkp MB2      &kp ENTER
             >;
