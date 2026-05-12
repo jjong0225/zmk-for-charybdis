@@ -1,1 +1,1 @@
-zmk-config for charybdis (4x6)
+custom zmk-config for charybdis (4x6)
